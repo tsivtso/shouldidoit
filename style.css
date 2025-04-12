@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body, html {
+    height: 100%;
+    background-color: #111;
+    color: #fff;
+    font-family: 'Helvetica Neue', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #container {
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  #message {
+    font-size: 2rem;
+    transition: opacity 0.3s ease;
+  }
+  
