@@ -8,7 +8,10 @@ const messages = [
     "Go for it!",
     "Sleep on it.",
     "Absolutely not.",
-    "100% yes.",
+    "100% yes."
+    "Probably not."
+    "Think about this thrice."
+    "Definiteeeeely.",
   ];
   
   const messageEl = document.getElementById("message");
